@@ -28,7 +28,7 @@ This is a simple calculator app built using React and styled with Tailwind CSS. 
 2. **Navigate to the project directory:**
 
    ```
-   cd react-calculator-app
+   cd calculator
    ```
 
 3. **Install dependencies:**
