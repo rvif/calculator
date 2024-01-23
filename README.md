@@ -47,9 +47,9 @@ This is a simple calculator app built using React and styled with Tailwind CSS. 
 
 ## Usage
 
-- Click on the operation buttons (+, -, \*, /) to perform the desired operation.
+- Click on the operation buttons (+, -, \*, /, %) to perform the desired operation.
 - Click on the equals (=) button to see the result.
-- Use the "C" button to clear the input.
+- Use the "AC" button to clear the input.
 
 ## Contributing
 
